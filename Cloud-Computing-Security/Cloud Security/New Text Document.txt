@@ -1,0 +1,5 @@
+http://en.wikipedia.org/wiki/Homomorphic_encryption
+http://dl.acm.org/citation.cfm?id=2046682
+http://wwwen.zte.com.cn/endata/magazine/ztecommunications/2010Year/no4/articles/201012/t20101220_197082.html
+http://www.smartercomputingblog.com/2011/08/15/security-in-the-cloud/
+http://blogs.teamb.com/craigstuntz/2010/04/08/38577/

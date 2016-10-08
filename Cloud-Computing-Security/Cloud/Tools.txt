@@ -1,0 +1,6 @@
+Eclipse Plugin for cloud - http://www.salesforce.com/platform/cloud-platform/programmable-logic.jsp
+Google App Engine - http://en.wikipedia.org/wiki/Google_App_Engine
+Cloud computing programming API tutorial - http://searchcloudcomputing.techtarget.com/tutorial/Cloud-computing-programming-API-tutorial
+Google App Engine - cloud-by-anuj
+Java cloud computing approach - http://www.jroller.com/nivanov/entry/java_cloud_computing_two_approaches
+Run Your Apps in Cloud - www.Kaavo.com
